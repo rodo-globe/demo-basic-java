@@ -11,10 +11,12 @@ public class App
     public static void main( String[] args )
     {
     
-    	Example e = new Example();
+    	/**
+    	 * Example of Local variable type inference
+    	 */
+    	
+    	var e = new Example();
     	e.run();
     }
-    
-    
-    
+
 }

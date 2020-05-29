@@ -10,8 +10,6 @@ import java.util.stream.Collectors;
 import javax.naming.ConfigurationException;
 import javax.naming.NamingException;
 
-import org.omg.CORBA.portable.ApplicationException;
-
 import com.mycompany.demo.domain.IPerson;
 import com.mycompany.demo.domain.students.IStudent;
 
